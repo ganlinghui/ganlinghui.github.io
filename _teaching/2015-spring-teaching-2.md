@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Connecticut, Department of Linguistics"
-date: 2024 Spring
+date: 2024-01-01
 location: "Storrs, USA"
 ---
 
