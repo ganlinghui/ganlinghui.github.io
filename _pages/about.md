@@ -11,7 +11,7 @@ Thanks for visiting my website!
 About me
 ======
 
-![The beauty of sign languages](/images/handshape art.JPG){: .align-right width="400px"}
+![The beauty of sign languages](/images/handshape art.JPG){: .align-right width="350px"}
 
 I'm a final year graduate student at the Department of Linguistics at [University of Connecticut](https://linguistics.uconn.edu/). I defended my Ph.D dissertation titled "Information Structure of the Clause-final Position in Hong Kong Sign Language" in May 2025. 
 
