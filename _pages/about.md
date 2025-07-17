@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome to Eva's website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 Thanks for visiting my website! 
 
 About me
-======
+----
 I am currently a 7th year PhD student of Linguistics at [University of Connecticut](https://linguistics.uconn.edu/). I defended my dissertation titled "Information Structure of the Clause-final Position in Hong Kong Sign Language" in May 2025. My research interest is in the grammar of sign languages (asking the question "How is the mechanism of human language faculty reflected in sign languages?"). I am particularly interested in syntax-semantic/prosody interfaces of sign languages and bimodal bilingualism, I also worked on a few sociolinguistic topics related to Deaf communities. My research has mainly focused on Hong Kong Sign Language (HKSL) and American Sign Language (ASL). 
 
 I am also a lab member of the UConn [Sign Linguistics & Language Acquisition Lab](https://slla.lab.uconn.edu/). I am currently involved in the Family ASL project (ASL-IPSyn and Vocabulary development) and the CODA project (code-blending). 
