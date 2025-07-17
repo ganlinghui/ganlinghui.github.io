@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "Gan.png"
   name             : "Linghui Eva Gan"
-  pronouns         : # example: "(she/her)"  
-  bio              : "sign linguist"
+  pronouns         : "(she/her)"  
+  bio              : #"sign linguist"
   location         : "Storrs, CT, USA"
   employer         : #"University of Connecticut"
   uri              : # URL
