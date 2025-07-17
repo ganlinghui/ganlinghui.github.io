@@ -21,27 +21,6 @@
         {% include nav_list nav=page.sidebar.nav %}
       {% endif %}
     {% endif %}
-    <!-- Add your EST clock here -->
-    <div class="sidebar-section">
-      <h4>Current Time (EST):</h4>
-      <span id="local-time"></span>
-    </div>
-    <script>
-      function updateTime() {
-        var now = new Date();
-        var options = {
-          timeZone: 'America/New_York',
-          hour: '2-digit',
-          minute: '2-digit',
-          second: '2-digit',
-          hour12: true
-        };
-        document.getElementById('local-time').textContent =
-          now.toLocaleTimeString('en-US', options);
-      }
-      updateTime();
-      setInterval(updateTime, 1000);
-    </script>
- <!-- end your EST clock here -->
+
  </div>
 {% endif %}
