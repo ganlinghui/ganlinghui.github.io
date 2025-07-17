@@ -23,3 +23,31 @@
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' %}}
 </div>
+
+
+<!-- Dynamic Timezone Clock -->
+<footer style="text-align:center; padding:1em 0;">
+  <span id="timezone-clock"></span>
+</footer>
+<script>
+function updateClock() {
+    // Specify the IANA timezone string here
+    const options = {
+        timeZone: 'America/New_York', // change to desired timezone
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour12: true
+    };
+    const now = new Date();
+    const timeString = now.toLocaleString('en-US', options) + ' EDT';
+    document.getElementById('timezone-clock').textContent = 'Current time (Eastern): ' + timeString;
+}
+document.addEventListener('DOMContentLoaded', function() {
+    updateClock();
+    setInterval(updateClock, 1000); // Updates every second
+});
+</script>
