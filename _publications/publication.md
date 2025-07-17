@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink:/Research/
 title: ""
 author_profile:true
