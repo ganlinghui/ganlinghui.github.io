@@ -2,8 +2,6 @@
 permalink: /
 title: "My research projects"
 author_profile: true
-redirect_from: 
-  - /publications/
 
 ---
 ## Information Structure of sign languages
