@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
         hour12: true
       };
       const timeString = now.toLocaleString('en-US', options);
-      document.getElementById('timezone-clock').textContent = 'Current Time (New York): ' + timeString;
+      document.getElementById('timezone-clock').textContent = 'Eva's local time (EST): ' + timeString;
     } catch (e) {
       document.getElementById('timezone-clock').textContent = '';
     }
