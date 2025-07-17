@@ -2,28 +2,26 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+    {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    {% if page.sidebar %}
+      {% for s in page.sidebar %}
+        {% if s.image %}
+          <img src=
+          {% if s.image contains "://" %}
+            "{{ s.image }}"
+          {% else %}
+            "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
         {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+        {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% endfor %}
+      {% if page.sidebar.nav %}
+        {% include nav_list nav=page.sidebar.nav %}
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
-  {% endif %}
-  </div>
-{% endif %}
-<!-- Add your EST clock here -->
+    <!-- Add your EST clock here -->
     <div class="sidebar-section">
       <h4>Current Time (EST):</h4>
       <span id="local-time"></span>
@@ -32,7 +30,7 @@
       function updateTime() {
         var now = new Date();
         var options = {
-          timezone: 'America/New_York',
+          timeZone: 'America/New_York',
           hour: '2-digit',
           minute: '2-digit',
           second: '2-digit',
