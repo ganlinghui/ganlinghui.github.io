@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Welcome to Eva's website!"
+title: "👋 Hi, I'm Eva 🐟."
 author_profile: true
 redirect_from: 
   - /about/
