@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Research/
-title: "My research projects:"
+title: "My research projects"
 author_profile: true
 redirect_from:
 -/resume
