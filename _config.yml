@@ -25,9 +25,9 @@ author:
   avatar           : "IMG_0669 copy.jpg"
   name             : "Linghui Eva Gan 甘翎慧"
   pronouns         : "(she/her)"  
-  bio              : "linguist"
+  bio              : #"linguist"
   location         : "Storrs, CT, USA"
-  timezone         : "America/New_York (EST)"
+  timezone         :  America/New_York
   employer         : "University of Connecticut"
   uri              : # URL
   email            : "linghui.gan[at]uconn.edu" 
