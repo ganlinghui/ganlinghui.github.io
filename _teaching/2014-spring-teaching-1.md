@@ -2,7 +2,7 @@
 title: "LING 2850 Introduction to Sociolinguistics of the Deaf Community"
 collection: teaching
 type: "undergraduate course"
-permalink: /teaching/2022fall-sociolinguistics
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Connecticut, Department of Linguistics"
 date: 2022 Fall
 location: "Storrs, USA"
