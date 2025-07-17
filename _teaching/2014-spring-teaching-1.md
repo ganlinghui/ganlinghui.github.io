@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "LING 3800 Structure of American Sign Language"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Connecticut, Department of Linguistics"
+date: 2024 Spring
+location: "Storrs, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an upper level undergraduate course looking at ASL and other sign languages with a theoretical linguistic lens.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ 
