@@ -4,6 +4,7 @@ title: "My research projects"
 author_profile: true
 redirect_from: 
   - /publications/
+  - /publications/publication.md
 
 
 ---
