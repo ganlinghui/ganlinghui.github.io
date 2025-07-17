@@ -23,6 +23,6 @@ I am a lab member of the UConn [Sign Linguistics & Language Acquisition Lab](htt
 
 I used to work at the [Centre for Sign Linguistics and Deaf Studies](http://www.cslds.org/v4/) at the Chinese University of Hong Kong, where I started my journey of doing sign language research. Before pursuing a Ph.D at Uconn, I received my first master's degree in Chinese Linguistics and Language Acquisition at the Chinese University of Hong Kong, and my second research master's degree in Linguistics at the University of Amsterdam, the Netherlands.
 
-![lgacqui](/images/handshape art.JPG){: .align-left width="200px"}
+![lgacqui](/images/IMG_0367.JPG){: .align-left width="200px"}
 
 
