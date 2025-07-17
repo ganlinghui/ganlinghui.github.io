@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My research projects"
+title: "My research projects:"
 author_profile: true
 
 ---
@@ -16,10 +16,11 @@ How languages encode information structure notions (e.g., focus, topic) has been
 #### Negation in HKSL
 #### Quantifiers in HKSL
 
-## Language acquisition of deaf children
+## Language acquisition of deaf children 
 ### Syntactic development of ASL by deaf children with deaf signing parents
 ### Syntactic development of ASL by deaf children with hearing signing parents
 ### Vocabulary development of ASL by deaf children with hearing signing parents
+
 
 ## Bimodal Bilingualism
 ### Linguistic analysis of code blending by ASL-English bilinguals (adult CODAs)
