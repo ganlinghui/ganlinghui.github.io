@@ -1,10 +1,11 @@
 ---
 layout: archive
-permalink: /Research/
-title: "My research projects"
-author_profile: true
+permalink:/Research/
+title: ""
+author_profile:true
 redirect_from:
 -/resume
+
 ---
 
 
