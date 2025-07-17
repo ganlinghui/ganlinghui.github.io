@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Linghui Eva Gan"
+title                    : "Eva Gan's homepage"
 title_separator          : "-"
 name                     : &name "Linghui (Eva) Gan 甘翎慧"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   avatar           : images/Gan.png
   name             : "Linghui Eva Gan"
   pronouns         : "(she/her)"  
-  bio              : #"linguist"
+  bio              : #""
   location         : "Storrs, CT, USA"
   timezone         : "America/New_York (EST)"
-  employer         : #"University of Connecticut"
+  employer         : "University of Connecticut"
   uri              : # URL
   email            : "linghui.gan[at]uconn.edu" 
 
