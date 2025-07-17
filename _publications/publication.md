@@ -1,9 +1,15 @@
 ---
-permalink: /
+layout: archive
+permalink: /Research/
 title: "My research projects:"
 author_profile: true
-
+redirect_from:
+-/resume
 ---
+
+
+
+
 ## Information Structure of sign languages
 ### My dissertation: Information Structure of the Clause-final Position in Hong Kong Sign Language 
 
