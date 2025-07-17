@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Gan.png"
+  avatar           : images/Gan.png
   name             : "Linghui Eva Gan"
   pronouns         : "(she/her)"  
   bio              : #"linguist"
