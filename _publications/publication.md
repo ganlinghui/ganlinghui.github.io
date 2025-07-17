@@ -3,7 +3,7 @@ permalink: /publications/
 title: "My research projects"
 author_profile: true
 redirect_from: 
-  - /resume
+  - /publications/
 
 
 ---
