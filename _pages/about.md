@@ -21,6 +21,6 @@ I specialize in theoretical linguistic research in syntax and the syntax-semanti
 I am a lab member of the UConn [Sign Linguistics & Language Acquisition Lab](https://slla.lab.uconn.edu/). I am currently involved in the Family ASL project (ASL-IPSyn and Vocabulary development by deaf children) and the CODA project (code-blending by adult CODAs). 
 
 
-I used to work at the [Centre for Sign Linguistics and Deaf Studies](http://www.cslds.org/v4/) at the Chinese University of Hong Kong, where I started my journey of doing sign language research. Before pursuing a Ph.D at UConn, I received my first master's degree in Chinese Linguistics and Language Acquisition at the Chinese University of Hong Kong, and my second research master's degree in Linguistics at the University of Amsterdam, the Netherlands.
+I used to work at the [Centre for Sign Linguistics and Deaf Studies](http://www.cslds.org/v4/) at the Chinese University of Hong Kong, where I started my journey of doing sign language research. Before pursuing a Ph.D at UConn, I received my first master in *Chinese Linguistics and Language Acquisition* at the Chinese University of Hong Kong, and my second research master in *Linguistics* at the University of Amsterdam, the Netherlands.
 
 
