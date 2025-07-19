@@ -19,7 +19,7 @@ My dissertation was motivated by the observation that across many unrelated sign
 ### Wh-questions  
 Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language: rightward wh-movement and special subject WHO. 📝
 
-Gan, Linghui (2022, May). *Syntactic structure of argument wh-questions in Hong Kong Sign Language (HKSL)* [conference presentation (stage)], The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28). Hong Kong, China. ([slides])(files/Gan_IACL_28_slides(full).pdf) 👩🏻‍🏫
+Gan, Linghui (2022, May). *Syntactic structure of argument wh-questions in Hong Kong Sign Language (HKSL)* [conference presentation (stage)], The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28). Hong Kong, China. [(slides)](files/Gan_IACL_28_slides(full).pdf) 👩🏻‍🏫
 
 Gan, Linghui (2020). Wh-Questions in Mandinka. Unpublished manuscript, University of Connecticut. 📝
 
