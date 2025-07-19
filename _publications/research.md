@@ -32,7 +32,7 @@ Gan, Linghui (2019). *Wh-questions in Hong Kong Sign Language* [Unpublished Mast
 ### Question Answer Pairs  
 Gan, Linghui (in prep.). Question Answer Pairs in sign languages, insights from Hong Kong Sign Language (HKSL). 📝
 
-Gan, Linghui (2025, January). Question Answer Pairs in Hong Kong Sign Language [conference presentation (poster)]. *Theoretical Issues in Sign Language Research (TISLR 2025)*. Addis Ababa, Ethiopia. [(poster)](files/Gan_QAP-TISLR.pdf)👩🏻‍🏫
+Gan, Linghui (2025, January). Question Answer Pairs in Hong Kong Sign Language [conference presentation (poster)]. *Theoretical Issues in Sign Language Research (TISLR 2025)*. Addis Ababa, Ethiopia. [(poster)](files/Gan_QAP-TISLR.pdf) 👩🏻‍🏫
 
 Gan, Linghui (2022). Question Answer Pairs in Hong Kong Sign Language (HKSL). *Proceedings of the Fifty-Eighth Annual Meeting of the Chicago Linguistic Society (CLS 58)*, edited by Lucas Fagen, Sam Gray, Quain, Stephanie Reyes, and Irene Tang, 103–18. 📄
 
@@ -48,7 +48,7 @@ Gan, Linghui (2021). Shifted Indexicals in Hong Kong Sign Language with(-out) Ro
 Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from Hong Kong Sign Language* [conference presentation (poster)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2021). Hong Kong. [(poster)](files/Gan_FEAST21 FINAL.pdf) 👩🏻‍🏫
 
 ### Other related works
-Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], NYU Syntax Brown Bag, New York University. New York, USA. [slides](files/Gan 2025 NYU_Brownbag shared.pdf) 💬
+Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], NYU Syntax Brown Bag, New York University. New York, USA. [(slides)](files/Gan 2025 NYU_Brownbag shared.pdf) 💬
 
 Gan, Linghui (2025, April). Correlation between focus and the clause-final position in Hong Kong Sign Language [conference presentation (stage)], 43rd West Coast Conference on Formal Linguistics (WCCFL 43). Seattle, USA. 👩🏻‍🏫
 
@@ -56,7 +56,7 @@ Gan, Linghui (2025, February). Last but not least: Focus and the clause-final po
 
 Gan, Linghui (2025, January). Correlation between word order and information structure in Hong Kong Sign Language [conference presentation (poster)]. *Theoretical Issues in Sign Language Research (TISLR 2025)*. Addis Ababa, Ethiopia. [(poster)](files/Gan_WO_TISLR.pdf) 👩🏻‍🏫
 
-Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign Language (HKSL): Exploring Ditransitives. *Proceedings of the 30th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXX)*, edited by Annie Holtz, Iva Kovac, and Rasmus Puggaard-Rode, 201–19. Leiden: Published by Leiden University Centre for Linguistics. [https://www.universiteitleiden.nl/en/events/series/sole](https://www.universiteitleiden.nl/en/events/series/sole). [(slides)](files/Gan_ConSOLE_slides.pdf)📄
+Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign Language (HKSL): Exploring Ditransitives. *Proceedings of the 30th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXX)*, edited by Annie Holtz, Iva Kovac, and Rasmus Puggaard-Rode, 201–19. Leiden: Published by Leiden University Centre for Linguistics. [https://www.universiteitleiden.nl/en/events/series/sole](https://www.universiteitleiden.nl/en/events/series/sole). [(conference presentation slides)](files/Gan_ConSOLE_slides.pdf)📄
 
 
 ## 2. Language acquisition of deaf children 
