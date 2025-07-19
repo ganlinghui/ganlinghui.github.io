@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "My research projects"
+title: "My research projects 🪴"
 author_profile: true
 redirect_from: 
   - /publications/
@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-## Information Structure of sign languages
+## Information Structure of sign languages 
 ### My dissertation: Information Structure of the Clause-final Position in Hong Kong Sign Language 
 
 My dissertation was motivated by the observation that across many unrelated sign languages, focus-related elements often appear in the clause-final position, including wh-questions, Question Answer Pairs, focused phrases (e.g.ONLY-phrases), and negatives. I investigated the syntactic, prosodic, and semantic properties of constructions that make use of the clause-final position, and how such usage is systematically related to information structure at the right-periphery. This project was awarded a Linguistics Doctoral Dissertation Research Improvement Grant by the U.S. National Science Foundation (NSF).
