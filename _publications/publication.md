@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-## Information Structure of sign languages 
+## 🍑 Information Structure of sign languages 
 ### My dissertation: Information Structure of the Clause-final Position in Hong Kong Sign Language 
 
 My dissertation was motivated by the observation that across many unrelated sign languages, focus-related elements often appear in the clause-final position, including wh-questions, Question Answer Pairs, focused phrases (e.g.ONLY-phrases), and negatives. I investigated the syntactic, prosodic, and semantic properties of constructions that make use of the clause-final position, and how such usage is systematically related to information structure at the right-periphery. This project was awarded a Linguistics Doctoral Dissertation Research Improvement Grant by the [U.S. National Science Foundation (NSF)](https://www.nsf.gov/funding/opportunities/ling-ddri-linguistics-program-doctoral-dissertation-research).
@@ -44,10 +44,10 @@ and Experimental Advances in Sign Language Theory (FEAST 2021). Hong Kong.
 Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign Language (HKSL): Exploring Ditransitives. *Proceedings of the 30th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXX)*, edited by Annie Holtz, Iva Kovac, and Rasmus Puggaard-Rode, 201–19. Leiden: Published by Leiden University Centre for Linguistics. [https://www.universiteitleiden.nl/en/events/series/sole](https://www.universiteitleiden.nl/en/events/series/sole).
 
 
-## Language acquisition of deaf children 
+## 🫐 Language acquisition of deaf children 
 Lillo-Martin, Diane, **Gan, Linghui**, Hochgesang, Julie, & Deborah Chen Pichler. *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA.
 
 Chen Pichler, Deborah, Mary Cecilia Conte, Patrice Creamer, Martin Dale-Hench, Elaine Gale, **Linghui Gan**, Corina Goodwin, Shengyun Gu, Kaj Kraus, Margaret Chui-Yi Lee, Diane Lillo-Martin, Jeffrey Levi Palmer, Bettie Petersen, & Meghan Shaw (2024). Profile of a Family’s Bimodal Bilingual Development. *BUCLD 48: Proceedings of the 48th annual Boston University Conference on Language Development*, edited by Hayat Abdullah Ali AlThagafi and Jupitara Ray, 158–68. [http://www.lingref.com/bucld/48/BUCLD48-12.pdf](http://www.lingref.com/bucld/48/BUCLD48-12.pdf)
 
-## Bimodal Bilingualism
+## 🍒 Bimodal Bilingualism
 **Gan, Linghui** & Lillo-Martin, Diane (in prep.). Linguistic analysis of code blending by adult ASL-English bilinguals.  
