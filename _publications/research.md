@@ -48,7 +48,7 @@ Gan, Linghui (2021). Shifted Indexicals in Hong Kong Sign Language with(-out) Ro
 Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from Hong Kong Sign Language* [conference presentation (poster)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2021). Hong Kong. 👩🏻‍🏫
 
 ### Other related works
-Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], NYU Syntax Brown Bag, New York University. New York, USA. 💬
+Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], NYU Syntax Brown Bag, New York University. New York, USA. [slides](files/Gan 2025 NYU_Brownbag shared.pdf) 💬
 
 Gan, Linghui (2025, April). Correlation between focus and the clause-final position in Hong Kong Sign Language [conference presentation (stage)], 43rd West Coast Conference on Formal Linguistics (WCCFL 43). Seattle, USA. 👩🏻‍🏫
 
