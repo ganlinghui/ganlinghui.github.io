@@ -8,6 +8,7 @@ redirect_from:
 
 
 ---
+(👩🏻‍🏫: presentation; 📄: published paper; 📝: manuscript)
 
 ## 1. Information structure of sign languages 
 ### My dissertation: *Information Structure of the Clause-final Position in Hong Kong Sign Language* 
