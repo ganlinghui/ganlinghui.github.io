@@ -60,6 +60,8 @@ Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign La
 
 
 ## 2. Language acquisition of deaf children 
+**Gan, Linghui**, Llerena, Angelica, & Lillo-Martin, Diane (upcoming). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
+
 Lillo-Martin, Diane, **Gan, Linghui**, Hochgesang, Julie, & Deborah Chen Pichler (2024, August). *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA. [(slides)](files/Lillo-Martin et al 2024 FEAST IPSyn Vocab.pdf) 👩🏻‍🏫
 
 Chen Pichler, Deborah, Mary Cecilia Conte, Patrice Creamer, Martin Dale-Hench, Elaine Gale, **Linghui Gan**, Corina Goodwin, Shengyun Gu, Kaj Kraus, Margaret Chui-Yi Lee, Diane Lillo-Martin, Jeffrey Levi Palmer, Bettie Petersen, & Meghan Shaw (2024). Profile of a Family’s Bimodal Bilingual Development. *BUCLD 48: Proceedings of the 48th annual Boston University Conference on Language Development*, edited by Hayat Abdullah Ali AlThagafi and Jupitara Ray, 158–68. [http://www.lingref.com/bucld/48/BUCLD48-12.pdf](http://www.lingref.com/bucld/48/BUCLD48-12.pdf) 📄
