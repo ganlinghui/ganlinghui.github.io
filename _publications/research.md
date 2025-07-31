@@ -60,17 +60,16 @@ Gan, Linghui (2025, January). Correlation between word order and information str
 Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign Language (HKSL): Exploring Ditransitives. *Proceedings of the 30th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXX)*, edited by Annie Holtz, Iva Kovac, and Rasmus Puggaard-Rode, 201–19. Leiden: Published by Leiden University Centre for Linguistics. [https://www.universiteitleiden.nl/en/events/series/sole](https://www.universiteitleiden.nl/en/events/series/sole). [(conference presentation slides)](files/Gan_ConSOLE_slides.pdf)📄
 
 
-## 2. Language acquisition of deaf children 
+## 2. Bimodal Bilingualism & Language acquisition of deaf children 
 **Gan, Linghui**, Llerena, Angelica, & Lillo-Martin, Diane (upcoming). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
 
 Lillo-Martin, Diane, **Gan, Linghui**, Hochgesang, Julie, & Deborah Chen Pichler (2024, August). *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA. [(slides)](files/Lillo-Martin et al 2024 FEAST IPSyn Vocab.pdf) 👩🏻‍🏫
 
 Chen Pichler, Deborah, Mary Cecilia Conte, Patrice Creamer, Martin Dale-Hench, Elaine Gale, **Linghui Gan**, Corina Goodwin, Shengyun Gu, Kaj Kraus, Margaret Chui-Yi Lee, Diane Lillo-Martin, Jeffrey Levi Palmer, Bettie Petersen, & Meghan Shaw (2024). Profile of a Family’s Bimodal Bilingual Development. *BUCLD 48: Proceedings of the 48th annual Boston University Conference on Language Development*, edited by Hayat Abdullah Ali AlThagafi and Jupitara Ray, 158–68. [http://www.lingref.com/bucld/48/BUCLD48-12.pdf](http://www.lingref.com/bucld/48/BUCLD48-12.pdf) 📄
 
-## 3. Bimodal Bilingualism
 **Gan, Linghui** & Lillo-Martin, Diane (in prep.). Linguistic analysis of code blending by adult ASL-English bilinguals. 📝 
 
-## 4. Sociolinguistics related to Deaf communities 
+## 3. Sociolinguistics related to Deaf communities 
 Zheng, Xuan, **Gan, Linghui**, & Zhang, Wanhong (2021). Exploring the Necessity of Legal Recognition of Chinese Sign Language: From International Experience to Local Practice. Unpublished manuscript. 📝
 
 Gobbo, Federico, **Gan, Linghui** & Zheng, Xuan (2022). Contested Linguistic Heritages: CODAs and Denaskuloj in Comparison. *Proceedings of the International Conference on “Minority Languages Spoken or Signed and Inclusive Spaces*, 44–49. Suresnes: INSHEA Publishing department. [https://doi.org/10.5281/zenodo.5834265](https://doi.org/10.5281/zenodo.5834265). 📄
