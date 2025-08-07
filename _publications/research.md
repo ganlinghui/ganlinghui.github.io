@@ -11,13 +11,13 @@ redirect_from:
 (📄: published paper; 📝: manuscript; 💬: invited talk; 👩🏻‍🏫: presentation)
 
 ## 1. Information structure of sign languages 
-### My dissertation: *Information Structure of the Clause-final Position in Hong Kong Sign Language* 
+### <ins>My dissertation: *Information Structure of the Clause-final Position in Hong Kong Sign Language*</ins>
 (Committee: **Diane Lillo-Martin**, Zeljko Boskovic, Magdalena Kaufmann, Jon Gajewski, Kathryn Davidson)
 
 My dissertation was motivated by the observation that across many unrelated sign languages, focus-related elements often appear in the clause-final position, including wh-questions, Question Answer Pairs, focused phrases (e.g., ONLY-phrases), and negatives. I investigated the syntactic, prosodic, and semantic properties of constructions that make use of the clause-final position, and how such usage is systematically related to information structure at the *right-periphery*. This project was awarded a Linguistics Doctoral Dissertation Research Improvement Grant by the [U.S. National Science Foundation (NSF)](https://www.nsf.gov/funding/opportunities/ling-ddri-linguistics-program-doctoral-dissertation-research).
 
 
-### Wh-questions  
+### <ins>Wh-questions</ins>  
 Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language: rightward wh-movement and special subject WHO. 📝
 
 Gan, Linghui (2022, May). *Syntactic structure of argument wh-questions in Hong Kong Sign Language (HKSL)* [conference presentation (stage)], The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28). Hong Kong, China. [(slides)](files/Gan_IACL_28_slides(full).pdf) 👩🏻‍🏫
@@ -30,25 +30,15 @@ Gan, Linghui (2019). *Wh-questions in Hong Kong Sign Language* [Unpublished Mast
 
 **Gan, Linghui** & Gladys Tang (2016, October). *Acquisition of wh-question in Hong Kong Sign Language by deaf bilingual children* [conference presentation (stage)], Hong Kong Speech and Hearing Symposium 2016. Hong Kong, China. 👩🏻‍🏫 
 
-### Question Answer Pairs  
+### <ins>Question Answer Pairs </ins> 
 Gan, Linghui (in prep.). Question Answer Pairs in sign languages, insights from Hong Kong Sign Language (HKSL). 📝
 
 Gan, Linghui (2025, January). Question Answer Pairs in Hong Kong Sign Language [conference presentation (poster)]. *Theoretical Issues in Sign Language Research (TISLR 2025)*. Addis Ababa, Ethiopia. [(poster)](files/Gan_QAP-TISLR.pdf) 👩🏻‍🏫
 
 Gan, Linghui (2022). Question Answer Pairs in Hong Kong Sign Language (HKSL). *Proceedings of the Fifty-Eighth Annual Meeting of the Chicago Linguistic Society (CLS 58)*, edited by Lucas Fagen, Sam Gray, Quain, Stephanie Reyes, and Irene Tang, 103–18. 📄
 
+### <ins>Word order and focus </ins> 
 
-### Role shift and indexicality  
-Gan, Linghui (in prep.) Perspective blend and indexical shift in Hong Kong Sign Language. 📝
-
-Gan, Linghui (2023). *Perspective blend and indexical shift in Hong Kong Sign Language (HKSL)* [conference presentation (stage)]. The 53th Annual Meeting of the North East Linguistic Society (NELS-53). Gottingen, Germany. 👩🏻‍🏫
-
-Gan, Linghui (2021). Shifted Indexicals in Hong Kong Sign Language with(-out) Role Shift. *The FEAST Journal (Formal and Experimental Advances in Sign language Theory)*, 4, 74–86.
-[https://doi.org/10.31009/FEAST.i4.06](https://doi.org/10.31009/FEAST.i4.06). 📄
-
-Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from Hong Kong Sign Language* [conference presentation (poster)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2021). Hong Kong. [(poster)](files/Gan_FEAST21 FINAL.pdf) 👩🏻‍🏫
-
-### Other related works
 Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/), New York University. New York, USA. [(slides)](files/Gan 2025 NYU_Brownbag shared.pdf) 💬
 
 Gan, Linghui (2025, April). Correlation between focus and the clause-final position in Hong Kong Sign Language [conference presentation (stage)], 43rd West Coast Conference on Formal Linguistics (WCCFL 43). Seattle, USA. 👩🏻‍🏫
@@ -58,6 +48,18 @@ Gan, Linghui (2025, February). Last but not least: Focus and the clause-final po
 Gan, Linghui (2025, January). Correlation between word order and information structure in Hong Kong Sign Language [conference presentation (poster)]. *Theoretical Issues in Sign Language Research (TISLR 2025)*. Addis Ababa, Ethiopia. [(poster)](files/Gan_WO_TISLR.pdf) 👩🏻‍🏫
 
 Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign Language (HKSL): Exploring Ditransitives. *Proceedings of the 30th Conference of the Student Organization of Linguistics in Europe (ConSOLE XXX)*, edited by Annie Holtz, Iva Kovac, and Rasmus Puggaard-Rode, 201–19. Leiden: Published by Leiden University Centre for Linguistics. [https://www.universiteitleiden.nl/en/events/series/sole](https://www.universiteitleiden.nl/en/events/series/sole). [(conference presentation slides)](files/Gan_ConSOLE_slides.pdf)📄
+
+
+### <ins>Role shift and indexicality  </ins>
+Gan, Linghui (in prep.) Perspective blend and indexical shift in Hong Kong Sign Language. 📝
+
+Gan, Linghui (2023). *Perspective blend and indexical shift in Hong Kong Sign Language (HKSL)* [conference presentation (stage)]. The 53th Annual Meeting of the North East Linguistic Society (NELS-53). Gottingen, Germany. 👩🏻‍🏫
+
+Gan, Linghui (2021). Shifted Indexicals in Hong Kong Sign Language with(-out) Role Shift. *The FEAST Journal (Formal and Experimental Advances in Sign language Theory)*, 4, 74–86.
+[https://doi.org/10.31009/FEAST.i4.06](https://doi.org/10.31009/FEAST.i4.06). 📄
+
+Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from Hong Kong Sign Language* [conference presentation (poster)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2021). Hong Kong. [(poster)](files/Gan_FEAST21 FINAL.pdf) 👩🏻‍🏫
+
 
 
 ## 2. Bimodal Bilingualism & Language acquisition of deaf children 
