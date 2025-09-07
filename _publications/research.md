@@ -18,7 +18,7 @@ My dissertation was motivated by the observation that across many unrelated sign
 
 
 ### <ins>Wh-questions</ins>  
-Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language: rightward wh-movement and special subject WHO. 📝
+Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language. 📝
 
 Gan, Linghui (2022, May). *Syntactic structure of argument wh-questions in Hong Kong Sign Language (HKSL)* [conference presentation (stage)], The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28). Hong Kong, China. [(slides)](/files/Gan_IACL_28_slides(full).pdf) 👩🏻‍🏫
 
@@ -38,6 +38,7 @@ Gan, Linghui (2025, January). Question Answer Pairs in Hong Kong Sign Language [
 Gan, Linghui (2022). Question Answer Pairs in Hong Kong Sign Language (HKSL). *Proceedings of the Fifty-Eighth Annual Meeting of the Chicago Linguistic Society (CLS 58)*, edited by Lucas Fagen, Sam Gray, Quain, Stephanie Reyes, and Irene Tang, 103–18. 📄
 
 ### <ins>Word order and focus </ins> 
+**Gan, Linghui** & Gajewski, Jon (upcoming). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
 
 Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/), New York University. New York, USA. [(slides)](/files/Gan 2025 NYU_Brownbag shared.pdf) 💬
 
