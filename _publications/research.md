@@ -16,6 +16,8 @@ redirect_from:
 
 My dissertation was motivated by the observation that across many unrelated sign languages, focus-related elements often appear in the clause-final position, including wh-questions, Question Answer Pairs, focused phrases (e.g., ONLY-phrases), and negatives. I investigated the syntactic, prosodic, and semantic properties of constructions that make use of the clause-final position, and how such usage is systematically related to information structure at the *right-periphery*. This project was awarded a Linguistics Doctoral Dissertation Research Improvement Grant by the [U.S. National Science Foundation (NSF)](https://www.nsf.gov/funding/opportunities/ling-ddri-linguistics-program-doctoral-dissertation-research).
 
+### <ins>Modality Effect and the grammar</ins> ###
+**Gan, Linghui** & Jon Gajewski (2025). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
 
 ### <ins>Wh-questions</ins>  
 Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language. 📝
@@ -38,8 +40,6 @@ Gan, Linghui (2025, January). Question Answer Pairs in Hong Kong Sign Language [
 Gan, Linghui (2022). Question Answer Pairs in Hong Kong Sign Language (HKSL). *Proceedings of the Fifty-Eighth Annual Meeting of the Chicago Linguistic Society (CLS 58)*, edited by Lucas Fagen, Sam Gray, Quain, Stephanie Reyes, and Irene Tang, 103–18. 📄
 
 ### <ins>Word order and focus </ins>
-**Gan, Linghui** & Jon Gajewski (upcoming). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
-
 **Gan, Linghui** (submitted). Last but not least: Focus and the clause-final position in Hong Kong Sign Language. *WCCFL 43 Proceedings*. 📄
 
 Gan, Linghui (2025, May). Information Structure of the clause-final position in Hong Kong Sign Language [invited talk], [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/), New York University. New York, USA. [(slides)](/files/Gan 2025 NYU_Brownbag shared.pdf) 💬
@@ -66,7 +66,7 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
-**Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (upcoming). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
+**Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (2025). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
 
 Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (upcoming). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
 
