@@ -13,7 +13,7 @@ About me
 
 
 
-I'm a final year graduate student at the Department of Linguistics at [University of Connecticut](https://linguistics.uconn.edu/). I defended my Ph.D dissertation titled "Information Structure of the Clause-final Position in Hong Kong Sign Language" in May 2025. 
+I'm a sign linguist. I received my Ph.D in Linguistics from the [University of Connecticut](https://linguistics.uconn.edu/) in 2025. My Ph.D dissertation is titled "Information Structure of the Clause-final Position in Hong Kong Sign Language". 
 
 ![The beauty of sign languages](/images/handshape art.JPG){: .align-right width="300px"}
 I specialize in theoretical linguistic research in syntax and the syntax-semantics/prosody interfaces, with a focus on sign languages (asking the question "How is the mechanism of human language faculty reflected in sign languages?"). I am particularly interested in the **information structure of sign languages** and **bimodal bilingualism**, I also worked on a few sociolinguistic topics related to Deaf communities. My research has mainly focused on Hong Kong Sign Language (HKSL) and American Sign Language (ASL). 
