@@ -68,7 +68,7 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
-**Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, Deborah Chen Pichler (in prep.) What does bimodal bilingual acquisition look like in deaf children with hearing parents? An investigation of vocabulary development. *BUCLD 50 proceedings*. 📝 
+**Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, Deborah Chen Pichler (in prep.) What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50 proceedings*. 📝 
 
 **Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (2025). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
 
