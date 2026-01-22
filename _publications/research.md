@@ -78,7 +78,7 @@ Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (up
 
 Lillo-Martin, Diane, **Linghui Gan**, Julie Hochgesang, & Deborah Chen Pichler (in prep.). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
 
-Lillo-Martin, Diane, **Linghui Gan**, Julie Hochgesang, & Deborah Chen Pichler (2024, August). *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA. [(slides)](/files/Lillo-Martin et al 2024 FEAST IPSyn Vocab.pdf) 👩🏻‍🏫
+Lillo-Martin, Diane, **Linghui Gan**, Julie Hochgesang, & Deborah Chen Pichler (2024, August). *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA. [(slides)](files/Lillo-Martin et al 2024 FEAST IPSyn Vocab.pdf) 👩🏻‍🏫
 
 Chen Pichler, Deborah, Mary Cecilia Conte, Patrice Creamer, Martin Dale-Hench, Elaine Gale, **Linghui Gan**, Corina Goodwin, Shengyun Gu, Kaj Kraus, Margaret Chui-Yi Lee, Diane Lillo-Martin, Jeffrey Levi Palmer, Bettie Petersen, & Meghan Shaw (2024). Profile of a Family’s Bimodal Bilingual Development. *BUCLD 48: Proceedings of the 48th annual Boston University Conference on Language Development*, edited by Hayat Abdullah Ali AlThagafi and Jupitara Ray, 158–68. [http://www.lingref.com/bucld/48/BUCLD48-12.pdf](http://www.lingref.com/bucld/48/BUCLD48-12.pdf) 📄
 
