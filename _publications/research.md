@@ -72,7 +72,7 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 **Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (2025). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
 
-Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (upcoming). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
+Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
 
 **Gan, Linghui** & Diane Lillo-Martin (in prep.). Linguistic analysis of code blending by adult ASL-English bilinguals. 📝 
 
@@ -84,7 +84,7 @@ Chen Pichler, Deborah, Mary Cecilia Conte, Patrice Creamer, Martin Dale-Hench, E
 
 
 ## 3. Sociolinguistics related to Deaf communities 
-Zheng, Xuan, **Linghui Gan**, & Wanhong Zhang(2021). Exploring the Necessity of Legal Recognition of Chinese Sign Language: From International Experience to Local Practice. Unpublished manuscript. 📝
+Zheng, Xuan, **Linghui Gan**, & Wanhong Zhang (2021). Exploring the Necessity of Legal Recognition of Chinese Sign Language: From International Experience to Local Practice. Unpublished manuscript. 📝
 
 Gobbo, Federico, **Linghui Gan** & Xuan Zheng (2022). Contested Linguistic Heritages: CODAs and Denaskuloj in Comparison. *Proceedings of the International Conference on “Minority Languages Spoken or Signed and Inclusive Spaces*, 44–49. Suresnes: INSHEA Publishing department. [https://doi.org/10.5281/zenodo.5834265](https://doi.org/10.5281/zenodo.5834265). 📄
 
