@@ -76,7 +76,7 @@ Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (20
 
 **Gan, Linghui** & Diane Lillo-Martin (in prep.). Linguistic analysis of code blending by adult ASL-English bilinguals. 📝 
 
-Lillo-Martin, Diane, **Linghui Gan**, Julie Hochgesang, & Deborah Chen Pichler (in prep.). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
+Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (in prep.). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
 
 Lillo-Martin, Diane, **Linghui Gan**, Julie Hochgesang, & Deborah Chen Pichler (2024, August). *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA. 👩🏻‍🏫
 
