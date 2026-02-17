@@ -23,7 +23,10 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-    
+         
+  - title: "Resources"
+    url: /resources.md/
+ 
   - title: "CV"
     url: /files/Gan_CV_2602.pdf
     
