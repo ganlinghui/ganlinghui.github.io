@@ -68,6 +68,8 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
+Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (submitted). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
+
 **Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, Deborah Chen Pichler (in press). What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50 proceedings*. 📄
 
 **Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (2025). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
@@ -75,8 +77,6 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
 
 **Gan, Linghui** & Diane Lillo-Martin (in prep.). Linguistic analysis of code blending by adult ASL-English bilinguals. 📝 
-
-Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (in prep.). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
 
 Lillo-Martin, Diane, **Linghui Gan**, Julie Hochgesang, & Deborah Chen Pichler (2024, August). *Assessing the Development of ASL by Deaf Children: Longitudinal Spontaneous Production Data* [conference presentation (stage)]. Formal and Experimental Advances in Sign Language Theory (FEAST 2024). Ann Arbor, USA. 👩🏻‍🏫
 
