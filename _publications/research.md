@@ -22,7 +22,7 @@ My dissertation was motivated by the observation that across many unrelated sign
 **Gan, Linghui** & Jon Gajewski (2025). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
 
 ### <ins>Wh-questions</ins>  
-Gan, Linghui (in prep.). Wh-questions in Hong Kong Sign Language. 📝
+Gan, Linghui (submitted). Wh-questions in Hong Kong Sign Language. 📝
 
 Gan, Linghui (2022, May). *Syntactic structure of argument wh-questions in Hong Kong Sign Language (HKSL)* [conference presentation (stage)], The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28). Hong Kong, China. [(slides)](/files/Gan_IACL_28_slides(full).pdf) 👩🏻‍🏫
 
