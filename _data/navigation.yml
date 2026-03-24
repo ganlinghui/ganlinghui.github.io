@@ -30,8 +30,8 @@ main:
   - title: "CV"
     url: /files/Gan_CV_2602.pdf
 
-      - title: "Resources"
-    url: /resources.md/
+#      - title: "Resources"
+ #   url: /resources.md/
     
  # - title: "Guide"
   #  url: /markdown/
