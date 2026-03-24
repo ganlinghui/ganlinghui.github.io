@@ -24,8 +24,8 @@ main:
  #   url: /year-archive/
     
          
-  - title: "Resources"
-    url: /_pages/resources.md
+ # - title: "Resources"
+  #  url: /_pages/resources.md
  
   - title: "CV"
     url: /files/Gan_CV_2602.pdf
