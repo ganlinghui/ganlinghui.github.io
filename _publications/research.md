@@ -22,7 +22,7 @@ My dissertation was motivated by the observation that across many unrelated sign
 **Gan, Linghui** & Jon Gajewski (2025). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
 
 ### <ins>Wh-questions</ins>  
-Gan, Linghui (submitted). Wh-questions in Hong Kong Sign Language. 📝
+Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language. 📝
 
 Gan, Linghui (2022, May). *Syntactic structure of argument wh-questions in Hong Kong Sign Language (HKSL)* [conference presentation (stage)], The 28th Annual Conference of the International Association of Chinese Linguistics (IACL-28). Hong Kong, China. [(slides)](/files/Gan_IACL_28_slides(full).pdf) 👩🏻‍🏫
 
@@ -68,7 +68,7 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
-Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (submitted). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
+Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (under review). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
 
 **Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, Deborah Chen Pichler (in press). What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50 proceedings*. 📄
 
