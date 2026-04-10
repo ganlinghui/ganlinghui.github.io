@@ -68,7 +68,7 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
-Barret, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (Upcoming). *Syntactic Development of ASL by L2 Hearing Parents of Deaf Children* [conference short presentation]. Formal and Experimental Advances in Sign Language Theory (FEAST 2026)}. Amsterdam, Netherlands. 👩🏻‍🏫
+Barret, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (Upcoming). *Syntactic Development of ASL by L2 Hearing Parents of Deaf Children* [conference short presentation]. Formal and Experimental Advances in Sign Language Theory (FEAST 2026). Amsterdam, Netherlands. 👩🏻‍🏫
 
 Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (under review). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
 
