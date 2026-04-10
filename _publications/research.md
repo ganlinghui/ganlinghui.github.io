@@ -19,7 +19,7 @@ My dissertation was motivated by the observation that across many unrelated sign
 ### <ins>Modality Effect and the grammar</ins> ###
 **Gan, Linghui**, Jon Gajewski, & Diane Lillo-Martin (in prep.) Why do sign languages make prominent use of the sentence final position?. *Biolinguistics*. 📝 
 
-**Gan, Linghui** & Jon Gajewski (2025). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
+**Gan, Linghui** & Jon Gajewski (2025, November). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
 
 ### <ins>Wh-questions</ins>  
 Gan, Linghui (under review). Wh-questions in Hong Kong Sign Language. 📝
@@ -58,7 +58,7 @@ Gan, Linghui (2022). Scope Relation and Structure Hierarchy in Hong Kong Sign La
 ### <ins>Role shift and indexicality  </ins>
 Gan, Linghui (in prep.) Perspective blend and indexical shift in Hong Kong Sign Language. 📝
 
-Gan, Linghui (2023). *Perspective blend and indexical shift in Hong Kong Sign Language (HKSL)* [conference presentation (stage)]. The 53th Annual Meeting of the North East Linguistic Society (NELS-53). Gottingen, Germany. 👩🏻‍🏫
+Gan, Linghui (2023, December). *Perspective blend and indexical shift in Hong Kong Sign Language (HKSL)* [conference presentation (stage)]. The 53th Annual Meeting of the North East Linguistic Society (NELS-53). Gottingen, Germany. 👩🏻‍🏫
 
 Gan, Linghui (2021). Shifted Indexicals in Hong Kong Sign Language with(-out) Role Shift. *The FEAST Journal (Formal and Experimental Advances in Sign language Theory)*, 4, 74–86.
 [https://doi.org/10.31009/FEAST.i4.06](https://doi.org/10.31009/FEAST.i4.06). 📄
@@ -74,9 +74,9 @@ Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (
 
 **Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, Deborah Chen Pichler (in press). What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50 proceedings*. 📄
 
-Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
+Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026, January). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
 
-**Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (2025). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
+**Gan, Linghui**, Angelica Llerena, & Diane Lillo-Martin (2025, November). *What does bimodal bilingual acquisition look like in deaf children with hearing parents?* [conference presentation (stage)]. Boston University Conference on Language Development (BUCLD) 50. Boston, USA. 👩🏻‍🏫
 
 **Gan, Linghui** & Diane Lillo-Martin (in prep.). Linguistic analysis of code blending by adult ASL-English bilinguals. 📝 
 
