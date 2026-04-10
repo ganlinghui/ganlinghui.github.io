@@ -12,7 +12,7 @@ redirect_from:
 
 ## 1. Information structure of sign languages 
 ### <ins>My dissertation: *Information Structure of the Clause-final Position in Hong Kong Sign Language*</ins> [(Link)](https://collections.ctdigitalarchive.org/node/4048887)
-(Committee: **Diane Lillo-Martin**, Zeljko Boskovic, Magdalena Kaufmann, Jon Gajewski, Kathryn Davidson)
+Committee: Diane Lillo-Martin (major advisor), Zeljko Boskovic, Magdalena Kaufmann, Jon Gajewski, Kathryn Davidson
 
 My dissertation was motivated by the observation that across many unrelated sign languages, focus-related elements often appear in the clause-final position, including wh-questions, Question Answer Pairs, focused phrases (e.g., ONLY-phrases), and negatives. I investigated the syntactic, prosodic, and semantic properties of constructions that make use of the clause-final position, and how such usage is systematically related to information structure at the *right-periphery*. This project was awarded a Linguistics Doctoral Dissertation Research Improvement Grant by the [U.S. National Science Foundation (NSF)](https://www.nsf.gov/funding/opportunities/ling-ddri-linguistics-program-doctoral-dissertation-research).
 
