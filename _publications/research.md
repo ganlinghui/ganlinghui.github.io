@@ -68,11 +68,11 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
-Barret, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (Upcoming). *Syntactic Development of ASL by L2 Hearing Parents of Deaf Children* [conference short presentation]. Formal and Experimental Advances in Sign Language Theory (FEAST 2026). Amsterdam, Netherlands. 👩🏻‍🏫
+Barret, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026, July). *Syntactic Development of ASL by L2 Hearing Parents of Deaf Children* [conference short presentation]. Formal and Experimental Advances in Sign Language Theory (FEAST 2026). Amsterdam, Netherlands. 👩🏻‍🏫
 
-Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (under review). Understanding Morpho-Syntactic Development in Children Acquiring American Sign Language: MLU and ASL-IPSyn. 📝 
+Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (under review). Understanding children’s development of American Sign Language using innovative measures of morpho-syntactic complexity (ASL MLU) and diversity (ASL-IPSyn). 📝 
 
-**Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, & Deborah Chen Pichler (in press). What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50 proceedings*. 📄
+**Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, & Deborah Chen Pichler (2026). What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50: Proceedings of the 50th annual Boston University Conference on Language Development*, edited by Romi Hill et al. 248-257. Somerville, MA: Cascadilla Press. [https://www.lingref.com/bucld/50/BUCLD50-20.pdf](https://www.lingref.com/bucld/50/BUCLD50-20.pdf)    📄
 
 Barrett, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026, January). *L2 Grammatical Development of ASL by Hearing Parents of Deaf Children* [conference presentation (stage)]. 2026 Linguistic Society of America (LSA) Annual Meeting. New Orleans, USA. 👩🏻‍🏫
 
