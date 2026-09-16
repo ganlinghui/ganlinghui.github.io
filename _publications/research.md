@@ -17,7 +17,7 @@ Committee: Diane Lillo-Martin (major advisor), Zeljko Boskovic, Magdalena Kaufma
 My dissertation was motivated by the observation that across many unrelated sign languages, focus-related elements often appear in the clause-final position, including wh-questions, Question Answer Pairs, focused phrases (e.g., ONLY-phrases), and negatives. I investigated the syntactic, prosodic, and semantic properties of constructions that make use of the clause-final position, and how such usage is systematically related to information structure at the *right-periphery*. This project was awarded a Linguistics Doctoral Dissertation Research Improvement Grant by the [U.S. National Science Foundation (NSF)](https://www.nsf.gov/funding/opportunities/ling-ddri-linguistics-program-doctoral-dissertation-research).
 
 ### <ins>Modality Effect and the grammar</ins> ###
-**Gan, Linghui**, Jon Gajewski, & Diane Lillo-Martin (submitted) Why do sign languages make prominent use of the sentence final position?. *Biolinguistics*. 📝 
+**Gan, Linghui**, Jon Gajewski, & Diane Lillo-Martin (under review) Why do sign languages make prominent use of the sentence final position?. *Biolinguistics*. 📝 
 
 **Gan, Linghui** & Jon Gajewski (2025, November). *Why do sign languages make prominent use of the sentence final position?* [conference presentation (stage)]. [Interdisciplinary Workshop on Sign Language Grammars, Parsing Models, & the Brain](https://sign-language-grammars-parsers-brain.github.io/venue-travel-accommodation/). Leipzig, Germany. 👩🏻‍🏫 
 
@@ -68,9 +68,9 @@ Gan, Linghui (2021, June). *Indexical shift with(-out) role shift: Evidence from
 
 
 ## 2. Bimodal bilingualism & Language acquisition of deaf children 
-Barret, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026, July). *Syntactic Development of ASL by L2 Hearing Parents of Deaf Children* [conference short presentation]. Formal and Experimental Advances in Sign Language Theory (FEAST 2026). Amsterdam, Netherlands. 👩🏻‍🏫
+Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (accepted). Understanding children’s development of American Sign Language using innovative measures of morpho-syntactic complexity (ASL MLU) and diversity (ASL-IPSyn). *First Language*. 📄 
 
-Lillo-Martin, Diane, **Linghui Gan**, Deborah Chen Pichler, & Julie Hochgesang (under review). Understanding children’s development of American Sign Language using innovative measures of morpho-syntactic complexity (ASL MLU) and diversity (ASL-IPSyn). 📝 
+Barret, Bonnie, **Linghui Gan**, Deborah Chen Pichler, & Diane Lillo-Martin (2026, July). *Syntactic Development of ASL by L2 Hearing Parents of Deaf Children* [conference short presentation]. Formal and Experimental Advances in Sign Language Theory (FEAST 2026). Amsterdam, Netherlands. 👩🏻‍🏫
 
 **Gan, Linghui**, Angelica Llerena, Diane Lillo-Martin, & Deborah Chen Pichler (2026). What does bimodal bilingual vocabulary acquisition look like in deaf children with hearing parents?. *BUCLD 50: Proceedings of the 50th annual Boston University Conference on Language Development*, edited by Romi Hill et al. 248-257. Somerville, MA: Cascadilla Press. [https://www.lingref.com/bucld/50/BUCLD50-20.pdf](https://www.lingref.com/bucld/50/BUCLD50-20.pdf)    📄
 
